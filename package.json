@@ -1,0 +1,15 @@
+{
+  "name": "ds3-starting-weapon-randomizer",
+  "version": "1.0.0",
+  "description": "Picks a random Dark Souls III weapon and prints its name",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node build.js"
+  },
+  "author": "Joe Sorgea",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0"
+  }
+}

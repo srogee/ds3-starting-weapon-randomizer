@@ -1,0 +1,757 @@
+[
+    {
+        "name": "Battle Axe",
+        "hexId": "006AF6D0"
+    },
+    {
+        "name": "Man Serpent Hatchet",
+        "hexId": "006D19B0"
+    },
+    {
+        "name": "Brigand Axe",
+        "hexId": "006B1DE0"
+    },
+    {
+        "name": "Winged Knight Twinaxes",
+        "hexId": "00F49930"
+    },
+    {
+        "name": "Eleonora",
+        "hexId": "006CCB90"
+    },
+    {
+        "name": "Hand Axe",
+        "hexId": "006ACFC0"
+    },
+    {
+        "name": "Butcher Knife",
+        "hexId": "006BE130"
+    },
+    {
+        "name": "Thrall Axe",
+        "hexId": "006C5660"
+    },
+    {
+        "name": "Dragonslayer's Axe",
+        "hexId": "006C0840"
+    },
+    {
+        "name": "Dragonrider Bow",
+        "hexId": "00D6B0F0"
+    },
+    {
+        "name": "Composite Bow",
+        "hexId": "00D5EDA0"
+    },
+    {
+        "name": "Black Bow of Pharis",
+        "hexId": "00D7E970"
+    },
+    {
+        "name": "Longbow",
+        "hexId": "00D689E0"
+    },
+    {
+        "name": "Short Bow",
+        "hexId": "00D5C690"
+    },
+    {
+        "name": "Darkmoon Longbow",
+        "hexId": "00D79B50"
+    },
+    {
+        "name": "Manikin Claws",
+        "hexId": "00A826E0"
+    },
+    {
+        "name": "Claw",
+        "hexId": "00A7D8C0"
+    },
+    {
+        "name": "Arbalest",
+        "hexId": "00D662D0"
+    },
+    {
+        "name": "Heavy Crossbow",
+        "hexId": "00D74D30"
+    },
+    {
+        "name": "Sniper Crossbow",
+        "hexId": "00D83790"
+    },
+    {
+        "name": "Avelyn",
+        "hexId": "00D6FF10"
+    },
+    {
+        "name": "Light Crossbow",
+        "hexId": "00D63BC0"
+    },
+    {
+        "name": "Knight's Crossbow",
+        "hexId": "00D72620"
+    },
+    {
+        "name": "Old Wolf Curved Sword",
+        "hexId": "00610BC0"
+    },
+    {
+        "name": "Exile Greatsword",
+        "hexId": "005DD770"
+    },
+    {
+        "name": "Murakumo",
+        "hexId": "005CC600"
+    },
+    {
+        "name": "Carthus Curved Greatsword",
+        "hexId": "003DF360"
+    },
+    {
+        "name": "Carthus Curved Sword",
+        "hexId": "003DCC50"
+    },
+    {
+        "name": "Falchion",
+        "hexId": "003DA540"
+    },
+    {
+        "name": "Pontiff Knight Curved Sword",
+        "hexId": "003E1A70"
+    },
+    {
+        "name": "Carthus Shotel",
+        "hexId": "003EB6B0"
+    },
+    {
+        "name": "Storm Curved Sword",
+        "hexId": "003E4180"
+    },
+    {
+        "name": "Shotel",
+        "hexId": "003D3010"
+    },
+    {
+        "name": "Rotten Ghru Curved Sword",
+        "hexId": "00205940"
+    },
+    {
+        "name": "Sellsword Twinblades",
+        "hexId": "00F42400"
+    },
+    {
+        "name": "Scimitar",
+        "hexId": "003D7E30"
+    },
+    {
+        "name": "Warden Twinblades",
+        "hexId": "00F47220"
+    },
+    {
+        "name": "Painting Guardian's Curved Sword",
+        "hexId": "003E6890"
+    },
+    {
+        "name": "Crescent Moon Sword",
+        "hexId": "003E8FA0"
+    },
+    {
+        "name": "Dancer's Enchanted Swords",
+        "hexId": "00F4C040"
+    },
+    {
+        "name": "Corvian Greatknife",
+        "hexId": "0010A1D0"
+    },
+    {
+        "name": "Tailbone Short Sword",
+        "hexId": "00107AC0"
+    },
+    {
+        "name": "Bandit's Knife",
+        "hexId": "000F6950"
+    },
+    {
+        "name": "Mail Breaker",
+        "hexId": "002DEDD0"
+    },
+    {
+        "name": "Dagger",
+        "hexId": "000F4240"
+    },
+    {
+        "name": "Rotten Ghru Dagger",
+        "hexId": "000FDE80"
+    },
+    {
+        "name": "Scholar's Candlestick",
+        "hexId": "001053B0"
+    },
+    {
+        "name": "Handmaid's Dagger",
+        "hexId": "00111700"
+    },
+    {
+        "name": "Brigand Twindaggers",
+        "hexId": "00F50E60"
+    },
+    {
+        "name": "Harpe",
+        "hexId": "00102CA0"
+    },
+    {
+        "name": "Parrying Dagger",
+        "hexId": "000F9060"
+    },
+    {
+        "name": "Caestus",
+        "hexId": "00A7FFD0"
+    },
+    {
+        "name": "Demon's Fist",
+        "hexId": "00A84DF0"
+    },
+    {
+        "name": "Dark Hand",
+        "hexId": "00A87500"
+    },
+    {
+        "name": "Smough's Great Hammer",
+        "hexId": "007E30B0"
+    },
+    {
+        "name": "Morne's Great Hammer",
+        "hexId": "007E7ED0"
+    },
+    {
+        "name": "Dragon Tooth",
+        "hexId": "007E09A0"
+    },
+    {
+        "name": "Vordt's Great Hammer",
+        "hexId": "007CD120"
+    },
+    {
+        "name": "Great Club",
+        "hexId": "007B4A80"
+    },
+    {
+        "name": "Old King's Great Hammer",
+        "hexId": "007CF830"
+    },
+    {
+        "name": "Great Mace",
+        "hexId": "007BBFB0"
+    },
+    {
+        "name": "Spiked Mace",
+        "hexId": "007EA5E0"
+    },
+    {
+        "name": "Large Club",
+        "hexId": "007AFC60"
+    },
+    {
+        "name": "Pickaxe",
+        "hexId": "007DE290"
+    },
+    {
+        "name": "Gargoyle Flame Hammer",
+        "hexId": "007CAA10"
+    },
+    {
+        "name": "Great Wooden Hammer",
+        "hexId": "007C8300"
+    },
+    {
+        "name": "Black Knight Greataxe",
+        "hexId": "009959D0"
+    },
+    {
+        "name": "Yhorm's Great Machete",
+        "hexId": "005F0FF0"
+    },
+    {
+        "name": "Greataxe",
+        "hexId": "006B9310"
+    },
+    {
+        "name": "Dragonslayer Greataxe",
+        "hexId": "006C7D70"
+    },
+    {
+        "name": "Great Machete",
+        "hexId": "00F4E750"
+    },
+    {
+        "name": "Demon's Greataxe",
+        "hexId": "006CA480"
+    },
+    {
+        "name": "Dragonslayer Greatbow",
+        "hexId": "00CF8500"
+    },
+    {
+        "name": "Onislayer Greatbow",
+        "hexId": "00D7C260"
+    },
+    {
+        "name": "Hollowslayer Greatsword",
+        "hexId": "00604870"
+    },
+    {
+        "name": "Claymore",
+        "hexId": "005BDBA0"
+    },
+    {
+        "name": "Bastard Sword",
+        "hexId": "005B8D80"
+    },
+    {
+        "name": "Black Knight Sword",
+        "hexId": "005F5E10"
+    },
+    {
+        "name": "Executioner's Greatsword",
+        "hexId": "0021DFE0"
+    },
+    {
+        "name": "Wolf Knight's Greatsword",
+        "hexId": "00602160"
+    },
+    {
+        "name": "Storm Ruler",
+        "hexId": "006132D0"
+    },
+    {
+        "name": "Flamberge",
+        "hexId": "005DB060"
+    },
+    {
+        "name": "Wolnir's Holy Sword",
+        "hexId": "005FFA50"
+    },
+    {
+        "name": "Twin Princes' Greatsword",
+        "hexId": "005FAC30"
+    },
+    {
+        "name": "Firelink Greatsword",
+        "hexId": "0060BDA0"
+    },
+    {
+        "name": "Greatsword of Judgment",
+        "hexId": "005E2590"
+    },
+    {
+        "name": "Drakeblood Greatsword",
+        "hexId": "00609690"
+    },
+    {
+        "name": "Moonlight Greatsword",
+        "hexId": "00606F80"
+    },
+    {
+        "name": "Black Knight Glaive",
+        "hexId": "009AE070"
+    },
+    {
+        "name": "Gundyr's Halberd",
+        "hexId": "009A1D20"
+    },
+    {
+        "name": "Red Hilted Halberd",
+        "hexId": "009AB960"
+    },
+    {
+        "name": "Winged Knight Halberd",
+        "hexId": "0099F610"
+    },
+    {
+        "name": "Halberd",
+        "hexId": "00990BB0"
+    },
+    {
+        "name": "Lucerne",
+        "hexId": "0098BD90"
+    },
+    {
+        "name": "Glaive",
+        "hexId": "0098E4A0"
+    },
+    {
+        "name": "Crescent Axe",
+        "hexId": "006B6C00"
+    },
+    {
+        "name": "Immolation Tinder",
+        "hexId": "009B0780"
+    },
+    {
+        "name": "Mace",
+        "hexId": "007A3910"
+    },
+    {
+        "name": "Warpick",
+        "hexId": "007DBB80"
+    },
+    {
+        "name": "Morning Star",
+        "hexId": "007A6020"
+    },
+    {
+        "name": "Reinforced Club",
+        "hexId": "007A8730"
+    },
+    {
+        "name": "Drang Hammers",
+        "hexId": "00F61FD0"
+    },
+    {
+        "name": "Club",
+        "hexId": "007A1200"
+    },
+    {
+        "name": "Blacksmith Hammer",
+        "hexId": "007E57C0"
+    },
+    {
+        "name": "Heysel Pick",
+        "hexId": "007D6D60"
+    },
+    {
+        "name": "Washing Pole",
+        "hexId": "004C7250"
+    },
+    {
+        "name": "Black Blade",
+        "hexId": "004CC070"
+    },
+    {
+        "name": "Chaos Blade",
+        "hexId": "004C9960"
+    },
+    {
+        "name": "Onikiri and Ubadachi",
+        "hexId": "00F58390"
+    },
+    {
+        "name": "Uchigatana",
+        "hexId": "004C4B40"
+    },
+    {
+        "name": "Darkdrift",
+        "hexId": "004D0E90"
+    },
+    {
+        "name": "Bloodlust",
+        "hexId": "004CE780"
+    },
+    {
+        "name": "Irithyll Rapier",
+        "hexId": "002E8A10"
+    },
+    {
+        "name": "Estoc",
+        "hexId": "002DC6C0"
+    },
+    {
+        "name": "Ricard's Rapier",
+        "hexId": "002E3BF0"
+    },
+    {
+        "name": "Rapier",
+        "hexId": "002E14E0"
+    },
+    {
+        "name": "Crystal Sage's Rapier",
+        "hexId": "002E6300"
+    },
+    {
+        "name": "Great Corvian Scythe",
+        "hexId": "0099CF00"
+    },
+    {
+        "name": "Pontiff Knight Great Scythe",
+        "hexId": "0099A7F0"
+    },
+    {
+        "name": "Great Scythe",
+        "hexId": "00989680"
+    },
+    {
+        "name": "Caitha's Chime",
+        "hexId": "00CA06C0"
+    },
+    {
+        "name": "Crystal Chime",
+        "hexId": "00CA2DD0"
+    },
+    {
+        "name": "Yorshka's Chime",
+        "hexId": "00C88020"
+    },
+    {
+        "name": "Cleric's Sacred Chime",
+        "hexId": "00C99190"
+    },
+    {
+        "name": "Priest's Chime",
+        "hexId": "00C9B8A0"
+    },
+    {
+        "name": "Saint-tree Bellvine",
+        "hexId": "00C9DFB0"
+    },
+    {
+        "name": "Greatlance",
+        "hexId": "008A8CC0"
+    },
+    {
+        "name": "Dragonslayer Swordspear"
+    },
+    {
+        "name": "Lothric Knight Long Spear",
+        "hexId": "008AB3D0"
+    },
+    {
+        "name": "Partizan",
+        "hexId": "0089C970"
+    },
+    {
+        "name": "Arstor's Spear",
+        "hexId": "008BEC50"
+    },
+    {
+        "name": "Dragonslayer Spear",
+        "hexId": "008CAFA0"
+    },
+    {
+        "name": "Winged Spear",
+        "hexId": "00897B50"
+    },
+    {
+        "name": "Four-Pronged Plow",
+        "hexId": "008ADAE0"
+    },
+    {
+        "name": "Pike",
+        "hexId": "008C6180"
+    },
+    {
+        "name": "Rotten Ghru Spear",
+        "hexId": "008B2900"
+    },
+    {
+        "name": "Spear",
+        "hexId": "00895440"
+    },
+    {
+        "name": "Drang Twinspears",
+        "hexId": "00F5AAA0"
+    },
+    {
+        "name": "Tailbone Spear",
+        "hexId": "008B5010"
+    },
+    {
+        "name": "Yorshka's Spear",
+        "hexId": "008C3A70"
+    },
+    {
+        "name": "Gargoyle Flame Spear",
+        "hexId": "008B01F0"
+    },
+    {
+        "name": "Saint Bident",
+        "hexId": "008C1360"
+    },
+    {
+        "name": "Golden Ritual Spear",
+        "hexId": "00C83200"
+    },
+    {
+        "name": "Soldering Iron",
+        "hexId": "008B7720"
+    },
+    {
+        "name": "Izalith Staff",
+        "hexId": "00C96A80"
+    },
+    {
+        "name": "Archdeacon's Great Staff",
+        "hexId": "00C80AF0"
+    },
+    {
+        "name": "Sage's Crystal Staff",
+        "hexId": "00C8CE40"
+    },
+    {
+        "name": "Man-grub's Staff",
+        "hexId": "00C7E3E0"
+    },
+    {
+        "name": "Heretic's Staff",
+        "hexId": "00C8F550"
+    },
+    {
+        "name": "Court Sorcerer's Staff",
+        "hexId": "00C91C60"
+    },
+    {
+        "name": "Storyteller's Staff",
+        "hexId": "00C76EB0"
+    },
+    {
+        "name": "Sorcerer's Staff",
+        "hexId": "00C747A0"
+    },
+    {
+        "name": "Mendicant's Staff",
+        "hexId": "00C795C0"
+    },
+    {
+        "name": "Witchtree Branch",
+        "hexId": "00C94370"
+    },
+    {
+        "name": "Sunlight Straight Sword",
+        "hexId": "00203230"
+    },
+    {
+        "name": "Dark Sword",
+        "hexId": "005F3700"
+    },
+    {
+        "name": "Broadsword",
+        "hexId": "001ED2A0"
+    },
+    {
+        "name": "Long Sword",
+        "hexId": "001EAB90"
+    },
+    {
+        "name": "Lothric Knight Sword",
+        "hexId": "001F6EE0"
+    },
+    {
+        "name": "Barbed Straight Sword",
+        "hexId": "0021B8D0"
+    },
+    {
+        "name": "Morion Blade",
+        "hexId": "002143A0"
+    },
+    {
+        "name": "Irithyll Straight Sword",
+        "hexId": "0020A760"
+    },
+    {
+        "name": "Shortsword",
+        "hexId": "001E8480"
+    },
+    {
+        "name": "Astora Straight Sword",
+        "hexId": "002191C0"
+    },
+    {
+        "name": "Gotthard Twinswords",
+        "hexId": "00F53570"
+    },
+    {
+        "name": "Lothric's Holy Sword",
+        "hexId": "005FD340"
+    },
+    {
+        "name": "Anri's Straight Sword",
+        "hexId": "002206F0"
+    },
+    {
+        "name": "Broken Straight Sword",
+        "hexId": "001EF9B0"
+    },
+    {
+        "name": "Cleric's Candlestick",
+        "hexId": "0020F580"
+    },
+    {
+        "name": "Sunless Talisman",
+        "hexId": "00CAA300"
+    },
+    {
+        "name": "White Hair Talisman",
+        "hexId": "00CAF120"
+    },
+    {
+        "name": "Saint's Talisman",
+        "hexId": "00CACA10"
+    },
+    {
+        "name": "Sunlight Talisman",
+        "hexId": "00CA54E0"
+    },
+    {
+        "name": "Canvas Talisman",
+        "hexId": "00CA7BF0"
+    },
+    {
+        "name": "Talisman",
+        "hexId": "00C72090"
+    },
+    {
+        "name": "Black Knight Greatsword",
+        "hexId": "005D8950"
+    },
+    {
+        "name": "Profaned Greatsword",
+        "hexId": "005E4CA0"
+    },
+    {
+        "name": "Greatsword",
+        "hexId": "005C50D0"
+    },
+    {
+        "name": "Fume Ultra Greatsword",
+        "hexId": "0060E4B0"
+    },
+    {
+        "name": "Zweihander",
+        "hexId": "005C29C0"
+    },
+    {
+        "name": "Cathedral Knight Greatsword",
+        "hexId": "005E73B0"
+    },
+    {
+        "name": "Astora Greatsword",
+        "hexId": "005C9EF0"
+    },
+    {
+        "name": "Lorian's Greatsword",
+        "hexId": "005F8520"
+    },
+    {
+        "name": "Farron Greatsword",
+        "hexId": "005E9AC0"
+    },
+    {
+        "name": "Lothric Knight Greatsword",
+        "hexId": "005D1420"
+    },
+    {
+        "name": "Spotted Whip",
+        "hexId": "00B80560"
+    },
+    {
+        "name": "Whip",
+        "hexId": "00B71B00"
+    },
+    {
+        "name": "Notched Whip",
+        "hexId": "00B7DE50"
+    },
+    {
+        "name": "Witch's Locks",
+        "hexId": "00B7B740"
+    }
+]
