@@ -30,9 +30,21 @@ function renderContent() {
                 <a class="text-reset text-decoration-none" href="${selection.category.url}" target="_blank" rel="noreferrer noopener">${selection.category.name}</a>
                 •
             </span>
-            <code class="fs-4">#${selection.weapon.hexId}</code>
+            <code id="hexId" class="fs-4">#${selection.weapon.hexId}</code>
         </div>
     `);
-}             
+
+    $('#hexId').click(() => {
+        navigator.clipboard.writeText(selection.weapon.hexId);
+        
+        $('#toastBody').text(`Copied '${selection.weapon.hexId}' to clipboard`);
+        const toast = bootstrap.Toast.getOrCreateInstance($('.toast')[0]);
+        toast.show();
+    });
+}
+
+function copyId() {
+
+}
 
 getRandomWeapon();
