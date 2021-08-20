@@ -3,13 +3,17 @@
 
 let selection = null;
 
-$('#randomButton').click(() => {
-    getRandomWeapon();
+$('#randomButton1').click(() => {
+    getRandomWeapon(1);
+});
+$('#randomButton2').click(() => {
+    getRandomWeapon(2);
 });
 
-function getRandomWeapon() {
-    $.getJSON('/api/getRandomWeapon', (data) => {
+function getRandomWeapon(mode) {
+    $.getJSON('/api/getRandomWeapon' + mode, (data) => {
         selection = data;
+        console.log(selection);
         renderContent();
     });
 }
@@ -25,12 +29,11 @@ function renderContent() {
             </a>
         </div>
         <a class="display-5 text-reset text-decoration-none" href="${selection.weapon.url}" target="_blank" rel="noreferrer noopener">${selection.weapon.name}</a>
-        <div>
+        <div class="d-flex align-items-center">
             <span class="fs-4 text-muted">
                 <a class="text-reset text-decoration-none" href="${selection.category.url}" target="_blank" rel="noreferrer noopener">${selection.category.name}</a>
-                •
             </span>
-            <code id="hexId" class="fs-4">#${selection.weapon.hexId}</code>
+            <code class="fs-4 ms-4">#${selection.weapon.hexId}</code>
         </div>
     `);
 
@@ -43,8 +46,4 @@ function renderContent() {
     });
 }
 
-function copyId() {
-
-}
-
-getRandomWeapon();
+getRandomWeapon(1);
