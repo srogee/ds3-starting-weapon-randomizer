@@ -26,7 +26,7 @@ async function process() {
         if (!element.hexId) {
             const itemIdRow = itemIds.find(row => row.name === element.name);
             if (!itemIdRow) {
-                console.log(`Couldn't find row for "${element.name}"`);
+                console.log(`Couldn't find item id row for "${element.name}"`);
             } else {
                 element.hexId = itemIdRow.hexId;
             }
@@ -63,6 +63,8 @@ async function process() {
 
     let categories = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/categories.json')));
 
+    console.log([...new Set(weapons.map(weapon => weapon.category))]);
+
     for (const category of categories) {
         if (!category.id) {
             category.id = getCategoryIdFromName(category.name);
@@ -89,14 +91,10 @@ async function findThumbnailUrl(url) {
         const html = await fetch(url).then(res => res.text());
         const $ = cheerio.load(html);
         const url = $('#infobox').find('img').first().attr('src');
-        if (url) {
-            return fextralifeRoot + url
-        }
+        return fextralifeRoot + url;
     } catch (e) {
-        
+        return null;
     }
-
-    return null;
 }
 
 async function findCategory(url) {

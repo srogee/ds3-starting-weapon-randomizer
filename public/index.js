@@ -20,7 +20,9 @@ function renderContent() {
 
     div.append(`
         <div>
-            <img style="object-fit: contain; width: 300px; height: 300px" src="${selection.weapon.thumbnailUrl}"></img>
+            <a href="${selection.weapon.url}" target="_blank" rel="noreferrer noopener">
+                <img style="object-fit: contain; width: 300px; height: 300px" src="${selection.weapon.thumbnailUrl}"></img>
+            </a>
         </div>
         <a class="display-5 text-reset text-decoration-none" href="${selection.weapon.url}" target="_blank" rel="noreferrer noopener">${selection.weapon.name}</a>
         <div>
@@ -31,9 +33,6 @@ function renderContent() {
             <code class="fs-4">#${selection.weapon.hexId}</code>
         </div>
     `);
-}
-
-//<a href="${selection.weapon.url}" target="_blank" rel="noreferrer noopener">
-                
+}             
 
 getRandomWeapon();
