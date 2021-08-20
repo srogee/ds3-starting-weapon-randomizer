@@ -1,8 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const crypto = require('crypto');
+const random = require('random');
 const express = require('express');
-
 
 const weapons = JSON.parse(fs.readFileSync(path.join(__dirname, 'data/weapons.json')));
 const categories = JSON.parse(fs.readFileSync(path.join(__dirname, 'data/categories.json')));
@@ -17,13 +16,21 @@ app.use(express.json());
 
 const port = process.env.PORT || 3000;
 
+function getRandomArrayElement(array) {
+    if (array.length === 0) {
+        return null;
+    }
+    const index = random.int(0, array.length - 1);
+    return array[index];
+}
+
 function getRandomWeapon() {
-    const categoryIndex = crypto.randomInt(0, categories.length);
-    const weaponsInCategory = weapons.filter(weapon => weapon.category === categories[categoryIndex].id);
-    const weaponIndex = crypto.randomInt(0, weaponsInCategory.length);
+    const category = getRandomArrayElement(categories);
+    const weaponsInCategory = weapons.filter(weapon => weapon.category === category.id);
+    const weapon = getRandomArrayElement(weaponsInCategory);
     return {
-        weapon: weaponsInCategory[weaponIndex],
-        category: categories[categoryIndex]
+        weapon: weapon,
+        category: category
     };
 }
 
