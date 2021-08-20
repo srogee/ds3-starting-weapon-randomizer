@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Axes",
+        "url": "https://darksouls3.wiki.fextralife.com/Axes",
+        "id": "axes"
+    },
+    {
+        "name": "Bows",
+        "url": "https://darksouls3.wiki.fextralife.com/Bows",
+        "id": "bows"
+    },
+    {
+        "name": "Fist & Claws",
+        "url": "https://darksouls3.wiki.fextralife.com/Fist+&+Claws",
+        "id": "fists"
+    },
+    {
+        "name": "Crossbows",
+        "url": "https://darksouls3.wiki.fextralife.com/Crossbows",
+        "id": "crossbows"
+    },
+    {
+        "name": "Curved Greatswords",
+        "url": "https://darksouls3.wiki.fextralife.com/Curved+Greatswords",
+        "id": "curved_greatswords"
+    },
+    {
+        "name": "Curved Swords",
+        "url": "https://darksouls3.wiki.fextralife.com/Curved+Swords",
+        "id": "curved_swords"
+    },
+    {
+        "name": "Daggers",
+        "url": "https://darksouls3.wiki.fextralife.com/Daggers",
+        "id": "daggers"
+    },
+    {
+        "name": "Great Hammers",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Hammers",
+        "id": "great_hammers"
+    },
+    {
+        "name": "Greataxes",
+        "url": "https://darksouls3.wiki.fextralife.com/Greataxes",
+        "id": "greataxes"
+    },
+    {
+        "name": "Greatbows",
+        "url": "https://darksouls3.wiki.fextralife.com/Greatbows",
+        "id": "greatbows"
+    },
+    {
+        "name": "Greatswords",
+        "url": "https://darksouls3.wiki.fextralife.com/Greatswords",
+        "id": "greatswords"
+    },
+    {
+        "name": "Halberds",
+        "url": "https://darksouls3.wiki.fextralife.com/Halberds",
+        "id": "halberds"
+    },
+    {
+        "name": "Hammers",
+        "url": "https://darksouls3.wiki.fextralife.com/Hammers",
+        "id": "hammers"
+    },
+    {
+        "name": "Katanas",
+        "url": "https://darksouls3.wiki.fextralife.com/Katanas",
+        "id": "katanas"
+    },
+    {
+        "name": "Thrusting Swords",
+        "url": "https://darksouls3.wiki.fextralife.com/Thrusting+Swords",
+        "id": "thrusting_swords"
+    },
+    {
+        "name": "Reapers",
+        "url": "https://darksouls3.wiki.fextralife.com/Reapers",
+        "id": "reapers"
+    },
+    {
+        "name": "Sacred Chimes",
+        "url": "https://darksouls3.wiki.fextralife.com/Sacred+Chimes",
+        "id": "sacred_chimes"
+    },
+    {
+        "name": "Spears & Pikes",
+        "url": "https://darksouls3.wiki.fextralife.com/Spears+&+Pikes",
+        "id": "spears"
+    },
+    {
+        "name": "Staves",
+        "url": "https://darksouls3.wiki.fextralife.com/Staves",
+        "id": "staves"
+    },
+    {
+        "name": "Straight Swords",
+        "url": "https://darksouls3.wiki.fextralife.com/Straight+Swords",
+        "id": "straight_swords"
+    },
+    {
+        "name": "Talismans",
+        "url": "https://darksouls3.wiki.fextralife.com/Talismans",
+        "id": "talismans"
+    },
+    {
+        "name": "Ultra Greatswords",
+        "url": "https://darksouls3.wiki.fextralife.com/Ultra+Greatswords",
+        "id": "ultra_greatswords"
+    },
+    {
+        "name": "Whips",
+        "url": "https://darksouls3.wiki.fextralife.com/Whips",
+        "id": "whips"
+    }
+]

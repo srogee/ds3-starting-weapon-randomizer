@@ -5,11 +5,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "build": "node build.js"
+    "build": "node build/build.js"
   },
   "author": "Joe Sorgea",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.16.0"
+    "cheerio": "^1.0.0-rc.10",
+    "csv-parse": "^4.16.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
   }
 }

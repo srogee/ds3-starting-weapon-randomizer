@@ -1,0 +1,1339 @@
+[
+    {
+        "name": "Battle Axe",
+        "hexId": "006AF6D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Battle+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/battle_axe.png",
+        "category": "axes"
+    },
+    {
+        "name": "Man Serpent Hatchet",
+        "hexId": "006D19B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Man+Serpent+Hatchet",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/man_serpent_hatchet.png",
+        "category": "axes"
+    },
+    {
+        "name": "Brigand Axe",
+        "hexId": "006B1DE0",
+        "url": "https://darksouls3.wiki.fextralife.com/Brigand+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/brigand_axe.png",
+        "category": "axes"
+    },
+    {
+        "name": "Winged Knight Twinaxes",
+        "hexId": "00F49930",
+        "url": "https://darksouls3.wiki.fextralife.com/Winged+Knight+Twinaxes",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/winged_knight_twinaxes.png",
+        "category": "axes"
+    },
+    {
+        "name": "Eleonora",
+        "hexId": "006CCB90",
+        "url": "https://darksouls3.wiki.fextralife.com/Eleonora",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/eleonora.png",
+        "category": "axes"
+    },
+    {
+        "name": "Hand Axe",
+        "hexId": "006ACFC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Hand+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/hand_axe.png",
+        "category": "axes"
+    },
+    {
+        "name": "Butcher Knife",
+        "hexId": "006BE130",
+        "url": "https://darksouls3.wiki.fextralife.com/Butcher+Knife",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/butcher_knife.png",
+        "category": "axes"
+    },
+    {
+        "name": "Thrall Axe",
+        "hexId": "006C5660",
+        "url": "https://darksouls3.wiki.fextralife.com/Thrall+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/thrall_axe.png",
+        "category": "axes"
+    },
+    {
+        "name": "Dragonslayer's Axe",
+        "hexId": "006C0840",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonslayer's+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonslayers_axe.png",
+        "category": "axes"
+    },
+    {
+        "name": "Dragonrider Bow",
+        "hexId": "00D6B0F0",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonrider+Bow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonrider_bow.png",
+        "category": "bows"
+    },
+    {
+        "name": "Composite Bow",
+        "hexId": "00D5EDA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Composite+Bow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/composite_bow.png",
+        "category": "bows"
+    },
+    {
+        "name": "Black Bow of Pharis",
+        "hexId": "00D7E970",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Bow+of+Pharis",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_bow_of_pharis.png",
+        "category": "bows"
+    },
+    {
+        "name": "Longbow",
+        "hexId": "00D689E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Longbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Longbow2.png",
+        "category": "bows"
+    },
+    {
+        "name": "Short Bow",
+        "hexId": "00D5C690",
+        "url": "https://darksouls3.wiki.fextralife.com/Short+Bow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/short_bow.png",
+        "category": "bows"
+    },
+    {
+        "name": "Darkmoon Longbow",
+        "hexId": "00D79B50",
+        "url": "https://darksouls3.wiki.fextralife.com/Darkmoon+Longbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/darkmoon_longbow.png",
+        "category": "bows"
+    },
+    {
+        "name": "Manikin Claws",
+        "hexId": "00A826E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Manikin+Claws",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/manikin_claws2.png",
+        "category": "fists"
+    },
+    {
+        "name": "Fists",
+        "hexId": "00A7D8C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Claw",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/claw.png",
+        "category": "fists"
+    },
+    {
+        "name": "Arbalest",
+        "hexId": "00D662D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Arbalest",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/arbalest.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Heavy Crossbow",
+        "hexId": "00D74D30",
+        "url": "https://darksouls3.wiki.fextralife.com/Heavy+Crossbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heavy_crossbow.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Sniper Crossbow",
+        "hexId": "00D83790",
+        "url": "https://darksouls3.wiki.fextralife.com/Sniper+Crossbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sniper_crossbow.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Avelyn",
+        "hexId": "00D6FF10",
+        "url": "https://darksouls3.wiki.fextralife.com/Avelyn",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/avelyn.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Light Crossbow",
+        "hexId": "00D63BC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Light+Crossbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/light_crossbow.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Knight's Crossbow",
+        "hexId": "00D72620",
+        "url": "https://darksouls3.wiki.fextralife.com/Knight's+Crossbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/knights_crossbow.png",
+        "category": "crossbows"
+    },
+    {
+        "name": "Old Wolf Curved Sword",
+        "hexId": "00610BC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Old+Wolf+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/old_wolf_curved_sword.png",
+        "category": "curved_greatswords"
+    },
+    {
+        "name": "Exile Greatsword",
+        "hexId": "005DD770",
+        "url": "https://darksouls3.wiki.fextralife.com/Exile+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/exile_greatsword.png",
+        "category": "curved_greatswords"
+    },
+    {
+        "name": "Murakumo",
+        "hexId": "005CC600",
+        "url": "https://darksouls3.wiki.fextralife.com/Murakumo",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/murakumo-icon.png",
+        "category": "curved_greatswords"
+    },
+    {
+        "name": "Carthus Curved Greatsword",
+        "hexId": "003DF360",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Curved+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/carthus_curved_greatsword.png",
+        "category": "curved_greatswords"
+    },
+    {
+        "name": "Carthus Curved Sword",
+        "hexId": "003DCC50",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/carthus_curved_sword.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Falchion",
+        "hexId": "003DA540",
+        "url": "https://darksouls3.wiki.fextralife.com/Falchion",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/falchion-icon.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Pontiff Knight Curved Sword",
+        "hexId": "003E1A70",
+        "url": "https://darksouls3.wiki.fextralife.com/Pontiff+Knight+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/ccc.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Carthus Shotel",
+        "hexId": "003EB6B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Carthus+Shotel",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/carthus_shotel.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Storm Curved Sword",
+        "hexId": "003E4180",
+        "url": "https://darksouls3.wiki.fextralife.com/Storm+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/storm_curved_sword.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Shotel",
+        "hexId": "003D3010",
+        "url": "https://darksouls3.wiki.fextralife.com/Shotel",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/shotel.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Rotten Ghru Curved Sword",
+        "hexId": "00205940",
+        "url": "https://darksouls3.wiki.fextralife.com/Rotten+Ghru+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/rotten_ghru_curved_sword.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Sellsword Twinblades",
+        "hexId": "00F42400",
+        "url": "https://darksouls3.wiki.fextralife.com/Sellsword+Twinblades",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sellsword_twinblades.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Scimitar",
+        "hexId": "003D7E30",
+        "url": "https://darksouls3.wiki.fextralife.com/Scimitar",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Scimitar2.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Warden Twinblades",
+        "hexId": "00F47220",
+        "url": "https://darksouls3.wiki.fextralife.com/Warden+Twinblades",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/warden_twinblades.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Painting Guardian's Curved Sword",
+        "hexId": "003E6890",
+        "url": "https://darksouls3.wiki.fextralife.com/Painting+Guardian's+Curved+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/painting_guardians_curved_sword.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Crescent Moon Sword",
+        "hexId": "003E8FA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Crescent+Moon+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/crescent_moon_sword.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Dancer's Enchanted Swords",
+        "hexId": "00F4C040",
+        "url": "https://darksouls3.wiki.fextralife.com/Dancer's+Enchanted+Swords",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dancers_enchanted_swords.png",
+        "category": "curved_swords"
+    },
+    {
+        "name": "Corvian Greatknife",
+        "hexId": "0010A1D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Corvian+Greatknife",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/corvian_greatknife-icon.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Tailbone Short Sword",
+        "hexId": "00107AC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Tailbone+Short+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/tailbone_short_sword.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Bandit's Knife",
+        "hexId": "000F6950",
+        "url": "https://darksouls3.wiki.fextralife.com/Bandit's+Knife",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/bandits_knife.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Mail Breaker",
+        "hexId": "002DEDD0",
+        "url": "https://darksouls3.wiki.fextralife.com/Mail+Breaker",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/mail_breaker.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Daggers",
+        "hexId": "000F4240",
+        "url": "https://darksouls3.wiki.fextralife.com/Dagger",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Dagger2.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Rotten Ghru Dagger",
+        "hexId": "000FDE80",
+        "url": "https://darksouls3.wiki.fextralife.com/Rotten+Ghru+Dagger",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/rotten_ghru_dagger.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Scholar's Candlestick",
+        "hexId": "001053B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Scholar's+Candlestick",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/scholars_candlestick-icon.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Handmaid's Dagger",
+        "hexId": "00111700",
+        "url": "https://darksouls3.wiki.fextralife.com/Handmaid's+Dagger",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/handmaids_dagger.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Brigand Twindaggers",
+        "hexId": "00F50E60",
+        "url": "https://darksouls3.wiki.fextralife.com/Brigand+Twindaggers",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/brigand_twindaggers.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Harpe",
+        "hexId": "00102CA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Harpe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/harpe.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Parrying Dagger",
+        "hexId": "000F9060",
+        "url": "https://darksouls3.wiki.fextralife.com/Parrying+Dagger",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/parrying_dagger.png",
+        "category": "daggers"
+    },
+    {
+        "name": "Caestus",
+        "hexId": "00A7FFD0",
+        "url": "https://darksouls3.wiki.fextralife.com/Caestus",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/caestus.png",
+        "category": "fists"
+    },
+    {
+        "name": "Demon's Fist",
+        "hexId": "00A84DF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Demon's+Fist",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/demons_fist.png",
+        "category": "fists"
+    },
+    {
+        "name": "Dark Hand",
+        "hexId": "00A87500",
+        "url": "https://darksouls3.wiki.fextralife.com/Dark+Hand",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dark_hand.png",
+        "category": "fists"
+    },
+    {
+        "name": "Smough's Great Hammer",
+        "hexId": "007E30B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Smough's+Great+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Smough_Hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Morne's Great Hammer",
+        "hexId": "007E7ED0",
+        "url": "https://darksouls3.wiki.fextralife.com/Morne's+Great+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/mornes_great_hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Dragon Tooth",
+        "hexId": "007E09A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragon+Tooth",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragon_tooth.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Vordt's Great Hammer",
+        "hexId": "007CD120",
+        "url": "https://darksouls3.wiki.fextralife.com/Vordt's+Great+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/vordts_great_hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Great Club",
+        "hexId": "007B4A80",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Club",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_club.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Old King's Great Hammer",
+        "hexId": "007CF830",
+        "url": "https://darksouls3.wiki.fextralife.com/Old+King's+Great+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/old_kings_great_hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Great Mace",
+        "hexId": "007BBFB0",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Mace",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_mace.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Spiked Mace",
+        "hexId": "007EA5E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Spiked+Mace",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/spiked_mace.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Large Club",
+        "hexId": "007AFC60",
+        "url": "https://darksouls3.wiki.fextralife.com/Large+Club",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/large_club.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Pickaxe",
+        "hexId": "007DE290",
+        "url": "https://darksouls3.wiki.fextralife.com/Pickaxe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/pickaxe-icon.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Gargoyle Flame Hammer",
+        "hexId": "007CAA10",
+        "url": "https://darksouls3.wiki.fextralife.com/Gargoyle+Flame+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/gargoyle_flame_hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Great Wooden Hammer",
+        "hexId": "007C8300",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Wooden+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_wooden_hammer.png",
+        "category": "great_hammers"
+    },
+    {
+        "name": "Black Knight Greataxe",
+        "hexId": "009959D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Knight+Greataxe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_knight_greataxe.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Yhorm's Great Machete",
+        "hexId": "005F0FF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Yhorm's+Great+Machete",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/yhorms_great_machete.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Greataxes",
+        "hexId": "006B9310",
+        "url": "https://darksouls3.wiki.fextralife.com/Greataxe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/greataxe-icon.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Dragonslayer Greataxe",
+        "hexId": "006C7D70",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonslayer+Greataxe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonslayer_greataxe.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Great Machete",
+        "hexId": "00F4E750",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Machete",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_machete-icon.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Demon's Greataxe",
+        "hexId": "006CA480",
+        "url": "https://darksouls3.wiki.fextralife.com/Demon's+Greataxe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/demons_greataxe-icon.png",
+        "category": "greataxes"
+    },
+    {
+        "name": "Dragonslayer Greatbow",
+        "hexId": "00CF8500",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonslayer+Greatbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonslayer_greatbow.png",
+        "category": "greatbows"
+    },
+    {
+        "name": "Onislayer Greatbow",
+        "hexId": "00D7C260",
+        "url": "https://darksouls3.wiki.fextralife.com/Onislayer+Greatbow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/onislayer_greatbow.png",
+        "category": "greatbows"
+    },
+    {
+        "name": "Hollowslayer Greatsword",
+        "hexId": "00604870",
+        "url": "https://darksouls3.wiki.fextralife.com/Hollowslayer+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/hollowslayer_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Claymore",
+        "hexId": "005BDBA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Claymore",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/claymore.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Bastard Sword",
+        "hexId": "005B8D80",
+        "url": "https://darksouls3.wiki.fextralife.com/Bastard+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/bastard_sword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Black Knight Sword",
+        "hexId": "005F5E10",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Knight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_knight_sword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Executioner's Greatsword",
+        "hexId": "0021DFE0",
+        "url": "https://darksouls3.wiki.fextralife.com/Executioner's+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/executioners_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Wolf Knight's Greatsword",
+        "hexId": "00602160",
+        "url": "https://darksouls3.wiki.fextralife.com/Wolf+Knight's+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/wolf_knights_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Storm Ruler",
+        "hexId": "006132D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Storm+Ruler",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/storm_ruler.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Flamberge",
+        "hexId": "005DB060",
+        "url": "https://darksouls3.wiki.fextralife.com/Flamberge",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/flameberge.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Wolnir's Holy Sword",
+        "hexId": "005FFA50",
+        "url": "https://darksouls3.wiki.fextralife.com/Wolnir's+Holy+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/wolnirs_holy_sword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Twin Princes' Greatsword",
+        "hexId": "005FAC30",
+        "url": "https://darksouls3.wiki.fextralife.com/Twin+Princes'+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/twin_princess_greatsword1.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Firelink Greatsword",
+        "hexId": "0060BDA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Firelink+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/firelink_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Greatsword of Judgment",
+        "hexId": "005E2590",
+        "url": "https://darksouls3.wiki.fextralife.com/Greatsword+of+Judgment",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/greatsword_of_judgement.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Drakeblood Greatsword",
+        "hexId": "00609690",
+        "url": "https://darksouls3.wiki.fextralife.com/Drakeblood+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/drakeblood_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Moonlight Greatsword",
+        "hexId": "00606F80",
+        "url": "https://darksouls3.wiki.fextralife.com/Moonlight+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/moonlight_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Onyx Blade",
+        "hexId": "00222E00",
+        "url": "https://darksouls3.wiki.fextralife.com/Onyx+Blade",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/onyx_blade_-_final.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Gael's Greatsword",
+        "hexId": "00227C20",
+        "url": "https://darksouls3.wiki.fextralife.com/Gael's+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/gael's_greatsword.png",
+        "category": "greatswords"
+    },
+    {
+        "name": "Black Knight Glaive",
+        "hexId": "009AE070",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Knight+Glaive",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_knight_glaive.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Gundyr's Halberd",
+        "hexId": "009A1D20",
+        "url": "https://darksouls3.wiki.fextralife.com/Gundyr's+Halberd",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/gundyrs_halberd.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Red Hilted Halberd",
+        "hexId": "009AB960",
+        "url": "https://darksouls3.wiki.fextralife.com/Red+Hilted+Halberd",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/red_hilted_halberd.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Winged Knight Halberd",
+        "hexId": "0099F610",
+        "url": "https://darksouls3.wiki.fextralife.com/Winged+Knight+Halberd",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/winged_knight_halberd-icon.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Halberds",
+        "hexId": "00990BB0",
+        "url": "https://darksouls3.wiki.fextralife.com/Halberd",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Halberd2.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Lucerne",
+        "hexId": "0098BD90",
+        "url": "https://darksouls3.wiki.fextralife.com/Lucerne",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lucerne-icon.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Glaive",
+        "hexId": "0098E4A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Glaive",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/glaive.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Crescent Axe",
+        "hexId": "006B6C00",
+        "url": "https://darksouls3.wiki.fextralife.com/Crescent+Axe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/crescent_axe.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Immolation Tinder",
+        "hexId": "009B0780",
+        "url": "https://darksouls3.wiki.fextralife.com/Immolation+Tinder",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/immolation_tinder.png",
+        "category": "halberds"
+    },
+    {
+        "name": "Mace",
+        "hexId": "007A3910",
+        "url": "https://darksouls3.wiki.fextralife.com/Mace",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/mace-icon.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Warpick",
+        "hexId": "007DBB80",
+        "url": "https://darksouls3.wiki.fextralife.com/Warpick",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/warpick.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Morning Star",
+        "hexId": "007A6020",
+        "url": "https://darksouls3.wiki.fextralife.com/Morning+Star",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/morning_star-icon.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Reinforced Club",
+        "hexId": "007A8730",
+        "url": "https://darksouls3.wiki.fextralife.com/Reinforced+Club",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/reinforced_club.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Drang Hammers",
+        "hexId": "00F61FD0",
+        "url": "https://darksouls3.wiki.fextralife.com/Drang+Hammers",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/drang_hammers.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Club",
+        "hexId": "007A1200",
+        "url": "https://darksouls3.wiki.fextralife.com/Club",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Club2.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Blacksmith Hammer",
+        "hexId": "007E57C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Blacksmith+Hammer",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/blacksmith_hammer.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Heysel Pick",
+        "hexId": "007D6D60",
+        "url": "https://darksouls3.wiki.fextralife.com/Heysel+Pick",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heysel_pick.png",
+        "category": "hammers"
+    },
+    {
+        "name": "Washing Pole",
+        "hexId": "004C7250",
+        "url": "https://darksouls3.wiki.fextralife.com/Washing+Pole",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/washing_pole.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Black Blade",
+        "hexId": "004CC070",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Blade",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_blade.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Chaos Blade",
+        "hexId": "004C9960",
+        "url": "https://darksouls3.wiki.fextralife.com/Chaos+Blade",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/chaos_blade.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Onikiri and Ubadachi",
+        "hexId": "00F58390",
+        "url": "https://darksouls3.wiki.fextralife.com/Onikiri+and+Ubadachi",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/onikiri_and_ubadachi.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Uchigatana",
+        "hexId": "004C4B40",
+        "url": "https://darksouls3.wiki.fextralife.com/Uchigatana",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/uchigatana.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Darkdrift",
+        "hexId": "004D0E90",
+        "url": "https://darksouls3.wiki.fextralife.com/Darkdrift",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/darkdrift.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Bloodlust",
+        "hexId": "004CE780",
+        "url": "https://darksouls3.wiki.fextralife.com/Bloodlust",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/bloodlust.png",
+        "category": "katanas"
+    },
+    {
+        "name": "Irithyll Rapier",
+        "hexId": "002E8A10",
+        "url": "https://darksouls3.wiki.fextralife.com/Irithyll+Rapier",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/irithyll_rapier.png",
+        "category": "thrusting_swords"
+    },
+    {
+        "name": "Estoc",
+        "hexId": "002DC6C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Estoc",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/estoc.png",
+        "category": "thrusting_swords"
+    },
+    {
+        "name": "Ricard's Rapier",
+        "hexId": "002E3BF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Ricard's+Rapier",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/ricards_rapier.png",
+        "category": "thrusting_swords"
+    },
+    {
+        "name": "Rapier",
+        "hexId": "002E14E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Rapier",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/rapier.png",
+        "category": "thrusting_swords"
+    },
+    {
+        "name": "Crystal Sage's Rapier",
+        "hexId": "002E6300",
+        "url": "https://darksouls3.wiki.fextralife.com/Crystal+Sage's+Rapier",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/crystal_sages_rapier.png",
+        "category": "thrusting_swords"
+    },
+    {
+        "name": "Great Corvian Scythe",
+        "hexId": "0099CF00",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Corvian+Scythe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_corvian_scythe-icon.png",
+        "category": "reapers"
+    },
+    {
+        "name": "Pontiff Knight Great Scythe",
+        "hexId": "0099A7F0",
+        "url": "https://darksouls3.wiki.fextralife.com/Pontiff+Knight+Great+Scythe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/pontiff_knight_great_scythe.png",
+        "category": "reapers"
+    },
+    {
+        "name": "Great Scythe",
+        "hexId": "00989680",
+        "url": "https://darksouls3.wiki.fextralife.com/Great+Scythe",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/great_scythe.png",
+        "category": "reapers"
+    },
+    {
+        "name": "Caitha's Chime",
+        "hexId": "00CA06C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Caitha's+Chime",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/caithas_chime.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Crystal Chime",
+        "hexId": "00CA2DD0",
+        "url": "https://darksouls3.wiki.fextralife.com/Crystal+Chime",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/crystal_chime.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Yorshka's Chime",
+        "hexId": "00C88020",
+        "url": "https://darksouls3.wiki.fextralife.com/Yorshka's+Chime",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/yorshkas_chime.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Cleric's Sacred Chime",
+        "hexId": "00C99190",
+        "url": "https://darksouls3.wiki.fextralife.com/Cleric's+Sacred+Chime",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/clerics_sacred_chime.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Priest's Chime",
+        "hexId": "00C9B8A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Priest's+Chime",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/priests_chime-icon.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Saint-tree Bellvine",
+        "hexId": "00C9DFB0",
+        "url": "https://darksouls3.wiki.fextralife.com/Saint-tree+Bellvine",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/saint-tree_bellvine.png",
+        "category": "sacred_chimes"
+    },
+    {
+        "name": "Greatlance",
+        "hexId": "008A8CC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Greatlance",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/greatlance.png",
+        "category": "spears"
+    },
+    {
+        "name": "Dragonslayer Swordspear",
+        "hexId": "008BC540",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonslayer+Swordspear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonslayer_swordspear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Lothric Knight Long Spear",
+        "hexId": "008AB3D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Lothric+Knight+Long+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lothric_knight_long_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Partizan",
+        "hexId": "0089C970",
+        "url": "https://darksouls3.wiki.fextralife.com/Partizan",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/partizan.png",
+        "category": "spears"
+    },
+    {
+        "name": "Arstor's Spear",
+        "hexId": "008BEC50",
+        "url": "https://darksouls3.wiki.fextralife.com/Arstor's+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/arstors_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Dragonslayer Spear",
+        "hexId": "008CAFA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Dragonslayer+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonslayer_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Winged Spear",
+        "hexId": "00897B50",
+        "url": "https://darksouls3.wiki.fextralife.com/Winged+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/winged_spear-icon.png",
+        "category": "spears"
+    },
+    {
+        "name": "Four-Pronged Plow",
+        "hexId": "008ADAE0",
+        "url": "https://darksouls3.wiki.fextralife.com/Four-Pronged+Plow",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/four-pronged_plow.png",
+        "category": "spears"
+    },
+    {
+        "name": "Pike",
+        "hexId": "008C6180",
+        "url": "https://darksouls3.wiki.fextralife.com/Pike",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Pike_Rybe.png",
+        "category": "spears"
+    },
+    {
+        "name": "Rotten Ghru Spear",
+        "hexId": "008B2900",
+        "url": "https://darksouls3.wiki.fextralife.com/Rotten+Ghru+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/rotten_ghru_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Spears",
+        "hexId": "00895440",
+        "url": "https://darksouls3.wiki.fextralife.com/Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/spear-icon.png",
+        "category": "spears"
+    },
+    {
+        "name": "Drang Twinspears",
+        "hexId": "00F5AAA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Drang+Twinspears",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/drang_twinspears-icon.png",
+        "category": "spears"
+    },
+    {
+        "name": "Tailbone Spear",
+        "hexId": "008B5010",
+        "url": "https://darksouls3.wiki.fextralife.com/Tailbone+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/tailbone_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Yorshka's Spear",
+        "hexId": "008C3A70",
+        "url": "https://darksouls3.wiki.fextralife.com/Yorshka's+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/yorshkas_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Gargoyle Flame Spear",
+        "hexId": "008B01F0",
+        "url": "https://darksouls3.wiki.fextralife.com/Gargoyle+Flame+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/gargoyle_flame_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Saint Bident",
+        "hexId": "008C1360",
+        "url": "https://darksouls3.wiki.fextralife.com/Saint+Bident",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/saint_bident.png",
+        "category": "spears"
+    },
+    {
+        "name": "Golden Ritual Spear",
+        "hexId": "00C83200",
+        "url": "https://darksouls3.wiki.fextralife.com/Golden+Ritual+Spear",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/golden_ritual_spear.png",
+        "category": "spears"
+    },
+    {
+        "name": "Soldering Iron",
+        "hexId": "008B7720",
+        "url": "https://darksouls3.wiki.fextralife.com/Soldering+Iron",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/soldering_iron.png",
+        "category": "spears"
+    },
+    {
+        "name": "Izalith Staff",
+        "hexId": "00C96A80",
+        "url": "https://darksouls3.wiki.fextralife.com/Izalith+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/izalith_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Archdeacon's Great Staff",
+        "hexId": "00C80AF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Archdeacon's+Great+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/archdeacon_great_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Sage's Crystal Staff",
+        "hexId": "00C8CE40",
+        "url": "https://darksouls3.wiki.fextralife.com/Sage's+Crystal+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sages_crystal_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Man-grub's Staff",
+        "hexId": "00C7E3E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Man-grub's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/man-grubs_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Heretic's Staff",
+        "hexId": "00C8F550",
+        "url": "https://darksouls3.wiki.fextralife.com/Heretic's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/heretics_staff-icon.png",
+        "category": "staves"
+    },
+    {
+        "name": "Court Sorcerer's Staff",
+        "hexId": "00C91C60",
+        "url": "https://darksouls3.wiki.fextralife.com/Court+Sorcerer's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/court_sorcerers_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Storyteller's Staff",
+        "hexId": "00C76EB0",
+        "url": "https://darksouls3.wiki.fextralife.com/Storyteller's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/storytellers_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Sorcerer's Staff",
+        "hexId": "00C747A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Sorcerer's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sorcerers_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Mendicant's Staff",
+        "hexId": "00C795C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Mendicant's+Staff",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/medicants_staff.png",
+        "category": "staves"
+    },
+    {
+        "name": "Witchtree Branch",
+        "hexId": "00C94370",
+        "url": "https://darksouls3.wiki.fextralife.com/Witchtree+Branch",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/witchtree_branch.png",
+        "category": "staves"
+    },
+    {
+        "name": "Sunlight Straight Sword",
+        "hexId": "00203230",
+        "url": "https://darksouls3.wiki.fextralife.com/Sunlight+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sunlight_straight_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Dark Sword",
+        "hexId": "005F3700",
+        "url": "https://darksouls3.wiki.fextralife.com/Dark+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dark_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Broadsword",
+        "hexId": "001ED2A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Broadsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/broadsword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Long Sword",
+        "hexId": "001EAB90",
+        "url": "https://darksouls3.wiki.fextralife.com/Long+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/longsword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Lothric Knight Sword",
+        "hexId": "001F6EE0",
+        "url": "https://darksouls3.wiki.fextralife.com/Lothric+Knight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lothric_knight_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Barbed Straight Sword",
+        "hexId": "0021B8D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Barbed+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/barbed_straight_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Morion Blade",
+        "hexId": "002143A0",
+        "url": "https://darksouls3.wiki.fextralife.com/Morion+Blade",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/morion_blade.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Irithyll Straight Sword",
+        "hexId": "0020A760",
+        "url": "https://darksouls3.wiki.fextralife.com/Irithyll+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/IrithyllStraightSword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Shortsword",
+        "hexId": "001E8480",
+        "url": "https://darksouls3.wiki.fextralife.com/Shortsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Shortsword2.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Astora Straight Sword",
+        "hexId": "002191C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Astora+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/astora_straight_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Gotthard Twinswords",
+        "hexId": "00F53570",
+        "url": "https://darksouls3.wiki.fextralife.com/Gotthard+Twinswords",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/gotthard_twinswords.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Lothric's Holy Sword",
+        "hexId": "005FD340",
+        "url": "https://darksouls3.wiki.fextralife.com/Lothric's+Holy+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lothrics_holy_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Anri's Straight Sword",
+        "hexId": "002206F0",
+        "url": "https://darksouls3.wiki.fextralife.com/Anri's+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/anris_straight_sword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Broken Straight Sword",
+        "hexId": "001EF9B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Broken+Straight+Sword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/BrokenStraightSword.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Cleric's Candlestick",
+        "hexId": "0020F580",
+        "url": "https://darksouls3.wiki.fextralife.com/Cleric's+Candlestick",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/cleric's_candlestick.png",
+        "category": "straight_swords"
+    },
+    {
+        "name": "Sunless Talisman",
+        "hexId": "00CAA300",
+        "url": "https://darksouls3.wiki.fextralife.com/Sunless+Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sunless_talisman.png",
+        "category": "talismans"
+    },
+    {
+        "name": "White Hair Talisman",
+        "hexId": "00CAF120",
+        "url": "https://darksouls3.wiki.fextralife.com/White+Hair+Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/white_hair_talisman.png",
+        "category": "talismans"
+    },
+    {
+        "name": "Saint's Talisman",
+        "hexId": "00CACA10",
+        "url": "https://darksouls3.wiki.fextralife.com/Saint's+Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/saints_talisman.png",
+        "category": "talismans"
+    },
+    {
+        "name": "Sunlight Talisman",
+        "hexId": "00CA54E0",
+        "url": "https://darksouls3.wiki.fextralife.com/Sunlight+Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/sunlight_talisman.png",
+        "category": "talismans"
+    },
+    {
+        "name": "Canvas Talisman",
+        "hexId": "00CA7BF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Canvas+Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/canvas_talisman.png",
+        "category": "talismans"
+    },
+    {
+        "name": "Talismans",
+        "hexId": "00C72090",
+        "url": "https://darksouls3.wiki.fextralife.com/Talisman",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/talisman-icon.png",
+        "category": "talismans"
+    },
+    {
+        "name": "Black Knight Greatsword",
+        "hexId": "005D8950",
+        "url": "https://darksouls3.wiki.fextralife.com/Black+Knight+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/black_knight_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Profaned Greatsword",
+        "hexId": "005E4CA0",
+        "url": "https://darksouls3.wiki.fextralife.com/Profaned+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/profane_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Greatsword",
+        "hexId": "005C50D0",
+        "url": "https://darksouls3.wiki.fextralife.com/Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/greatsword-icon.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Fume Ultra Greatsword",
+        "hexId": "0060E4B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Fume+Ultra+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/fume_ultra_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Zweihander",
+        "hexId": "005C29C0",
+        "url": "https://darksouls3.wiki.fextralife.com/Zweihander",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/zweihander.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Cathedral Knight Greatsword",
+        "hexId": "005E73B0",
+        "url": "https://darksouls3.wiki.fextralife.com/Cathedral+Knight+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/cathedral_knight_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Astora Greatsword",
+        "hexId": "005C9EF0",
+        "url": "https://darksouls3.wiki.fextralife.com/Astora+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/astora_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Lorian's Greatsword",
+        "hexId": "005F8520",
+        "url": "https://darksouls3.wiki.fextralife.com/Lorian's+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lorians_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Farron Greatsword",
+        "hexId": "005E9AC0",
+        "url": "https://darksouls3.wiki.fextralife.com/Farron+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/farron_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Lothric Knight Greatsword",
+        "hexId": "005D1420",
+        "url": "https://darksouls3.wiki.fextralife.com/Lothric+Knight+Greatsword",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lothric_knight_greatsword.png",
+        "category": "ultra_greatswords"
+    },
+    {
+        "name": "Spotted Whip",
+        "hexId": "00B80560",
+        "url": "https://darksouls3.wiki.fextralife.com/Spotted+Whip",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/spotted_whip.png",
+        "category": "whips"
+    },
+    {
+        "name": "Whip",
+        "hexId": "00B71B00",
+        "url": "https://darksouls3.wiki.fextralife.com/Whip",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/whip.png",
+        "category": "whips"
+    },
+    {
+        "name": "Notched Whip",
+        "hexId": "00B7DE50",
+        "url": "https://darksouls3.wiki.fextralife.com/Notched+Whip",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/notched_whip.png",
+        "category": "whips"
+    },
+    {
+        "name": "Witch's Locks",
+        "hexId": "00B7B740",
+        "url": "https://darksouls3.wiki.fextralife.com/Witch's+Locks",
+        "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/witchs_locks.png",
+        "category": "whips"
+    }
+]
