@@ -80,7 +80,7 @@
         "id": "reapers"
     },
     {
-        "name": "Sacred Chimes & Flames",
+        "name": "Sacred Chimes",
         "url": "https://darksouls3.wiki.fextralife.com/Sacred+Chimes",
         "id": "sacred_chimes"
     },
@@ -113,5 +113,15 @@
         "name": "Whips",
         "url": "https://darksouls3.wiki.fextralife.com/Whips",
         "id": "whips"
+    },
+    {
+        "name": "Torches",
+        "url": "#",
+        "id": "torches"
+    },
+    {
+        "name": "Flames",
+        "url": "https://darksouls3.wiki.fextralife.com/Flames",
+        "id": "flames"
     }
 ]

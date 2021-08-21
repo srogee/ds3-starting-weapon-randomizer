@@ -29,20 +29,13 @@ function getRandomWeapon1() {
     const category = getRandomArrayElement(categories);
     const weaponsInCategory = weapons.filter(weapon => weapon.category === category.id);
     const weapon = getRandomArrayElement(weaponsInCategory);
-    return {
-        weapon: weapon,
-        category: category
-    };
+    return weapon;
 }
 
 function getRandomWeapon2() {
     // Every weapon has an equal chance
     const weapon = getRandomArrayElement(weapons);
-    const category = categories.find(category => weapon.category === category.id);
-    return {
-        weapon: weapon,
-        category: category
-    };
+    return weapon;
 }
 
 app.get('/', (req, res) => {
@@ -55,6 +48,13 @@ app.get('/api/getRandomWeapon1', (req, res) => {
 
 app.get('/api/getRandomWeapon2', (req, res) => {
     res.json(getRandomWeapon2());
+});
+
+app.get('/api/getStaticData', (req, res) => {
+    res.json({
+        categories,
+        weapons
+    });
 });
 
 app.listen(port, () => {

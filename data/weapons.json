@@ -156,14 +156,14 @@
     {
         "name": "Torch",
         "url": "https://darksouls3.wiki.fextralife.com/Torch",
-        "category": "fists",
+        "category": "torches",
         "hexId": "015EF3C0",
         "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/torch.png"
     },
     {
         "name": "Follower Torch",
         "url": "https://darksouls3.wiki.fextralife.com/Follower+Torch",
-        "category": "hammers",
+        "category": "torches",
         "hexId": "015F1AD0",
         "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/follower_torch_-_final.png"
     },
@@ -191,14 +191,14 @@
     {
         "name": "Pyromancer's Parting Flame",
         "url": "https://darksouls3.wiki.fextralife.com/Pyromancer's+Parting+Flame",
-        "category": "sacred_chimes",
+        "category": "flames",
         "hexId": "00CC9ED0",
         "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/pyromancer's_parting_flame_-_final.png"
     },
     {
         "name": "Pyromancy Flame",
         "url": "https://darksouls3.wiki.fextralife.com/Pyromancy+Flame",
-        "category": "sacred_chimes",
+        "category": "flames",
         "hexId": "00CC77C0",
         "thumbnailUrl": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/pyromancy_flame.png"
     },

@@ -8,28 +8,33 @@
 
     <!-- Bootstrap CSS -->
     <link href="bootstrap-5.0.2-dist\css\bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 
     <title>Dark Souls III Random Weapon</title>
 </head>
 
 <body>
-    <div class="d-flex justify-content-center align-items-center vh-100">
-        <div class="d-flex flex-column align-items-center">
+    <div class="d-flex flex-row justify-content-center align-items-center vh-100">
+        <div class="d-flex flex-column align-items-center w-25">
             <div id="contentDiv" class="d-flex flex-column align-items-center"></div>
             <div class="mt-4">
-                <button class="btn btn-lg btn-primary" id="randomButton1">
+                <button class="btn btn-lg btn-light" id="randomButton1">
                     <div class="d-flex flex-column">
-                        <div>Random Category + Weapon</div>
-                        <div style="font-size: 0.75rem;">Each Category Has Equal Weight</div>
+                        <div><i class="fas fa-dice me-2"></i>Method 1</div>
+                        <div class="text-muted" style="font-size: 0.75rem;">Choose random category, then random weapon in category</div>
                     </div>
                 </button>
-                <button class="btn btn-lg btn-dark" id="randomButton2">
+                <button class="btn btn-lg btn-light" id="randomButton2">
                     <div class="d-flex flex-column">
-                        <div>Random Weapon</div>
-                        <div style="font-size: 0.75rem;">Each Weapon Has Equal Weight</div>
+                        <div><i class="fas fa-dice-six me-2"></i>Method 2</div>
+                        <div class="text-muted" style="font-size: 0.75rem;">Choose random weapon</div>
                     </div>
                 </button>
             </div>
+        </div>
+        <div class="w-25 ms-4">
+            <p class="display-5">Categories</p>
+            <div id="optionsDiv" class="d-flex flex-fill flex-wrap">
         </div>
     </div>
 
@@ -44,6 +49,7 @@
 
     <script src="bootstrap-5.0.2-dist\js\bootstrap.min.js"></script>
     <script src="jquery-3.6.0-dist\jquery.min.js"></script>
+    <script src="fontawesome.js"></script>
     <script src="index.js"></script>
 </body>
 
