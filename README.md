@@ -1,5 +1,7 @@
 # Dark Souls III Starting Weapon Randomizer
- 
+
+![image](https://github.com/srogee/ds3-starting-weapon-randomizer/assets/5308539/4b6c39aa-a946-450d-ba98-951cf13ec399)
+
 This is a simple Node app that chooses a random Dark Souls III weapon and prints its name and hex ID. Useful if you want to randomly choose a starting weapon.
 
 ## How To Use
